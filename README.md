@@ -9,7 +9,7 @@ Este repositorio contiene una colección de **proyectos básicos en Java** que d
 Aquí encontrarás pequeños proyectos y ejercicios como:
 
 - ➕ **Calculadora científica** (con operaciones aritméticas simples)
-- 🧮 **Conversores** (temperatura, monedas, unidades)
+- 🧮 **Conexión a base de datos MySQL con JDBC**
 - 📅 **Gestión de fechas**
 - 📁 **Lectura y escritura de ficheros**
 - 🔁 **Bucles y estructuras condicionales**
